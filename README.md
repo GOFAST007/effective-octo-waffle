@@ -8,7 +8,7 @@ High-quality APIs for [Deno](https://deno.com/) and the web. Use fearlessly.
 ## Get Started
 
 ```ts
-import { copy } from "https://deno.land/std@$STD_VERSION/fs/copy.ts";
+import { copy } from "https://deno.land/std@$STD_VERSION/fs/copy.ts"; 
 
 await copy("./foo", "./bar");
 ```
